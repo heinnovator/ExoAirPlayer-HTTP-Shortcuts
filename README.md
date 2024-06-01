@@ -20,5 +20,5 @@ A script to control [ExoAirPlayer](https://github.com/warren-bank/Android-ExoPla
 
 Import shortcuts using the following url.
 ```
-https://github.com/heinnovator/ExoAirPlayer-HTTP-Shortcuts/shortcuts.json
+https://raw.githubusercontent.com/heinnovator/ExoAirPlayer-HTTP-Shortcuts/main/shortcuts.json
 ```
